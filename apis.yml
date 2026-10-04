@@ -51,7 +51,7 @@ tags:
 - Optical Interconnect
 - Co-Packaged Optics
 - Silicon Photonics
-- Data-Center
+- Data Center
 - Hardware
 tags_raw:
 - Company
@@ -61,6 +61,7 @@ tags_raw:
 - Silicon Photonics
 - Data Center
 - Hardware
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
